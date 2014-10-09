@@ -6,6 +6,8 @@ TODO LIST
 
 + Scraping from various website and store the information in the json format.
 + Try with different NLP keyword extraction technique for tagging generation
++ Figure out how to create a database from https://musicbrainz.org/doc/MusicBrainz_Database/Download and cross-reference songs with hypem.com to check song reviews and create tags by using some sort of NLP api to check them for tags or scrape them with a preset group of tags
++ Link related tags together (possibly with some sort of NLP)
 
 ---
 
