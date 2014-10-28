@@ -27,3 +27,14 @@ JSON FILE SPECIFICATION
 	"keywords" : ["...", ...]
 }
 ```
+
+
+## How to use the Database Builder
+
+### Artist List Builder
+Install Beautiful Soup 4 by runnung:
+
+>pip install beautifulsoup4
+>pip install lxml
+
+You should be good to go, assuming the version of python you have installed is 2.7
